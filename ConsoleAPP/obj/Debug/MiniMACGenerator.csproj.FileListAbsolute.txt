@@ -1,0 +1,6 @@
+D:\VisualC Projects\MiniMACGen\ConsoleAPP\bin\Debug\MiniMacGEN.exe.config
+D:\VisualC Projects\MiniMACGen\ConsoleAPP\bin\Debug\MiniMacGEN.exe
+D:\VisualC Projects\MiniMACGen\ConsoleAPP\bin\Debug\MiniMacGEN.pdb
+D:\VisualC Projects\MiniMACGen\ConsoleAPP\obj\Debug\MiniMACGenerator.csprojResolveAssemblyReference.cache
+D:\VisualC Projects\MiniMACGen\ConsoleAPP\obj\Debug\MiniMacGEN.exe
+D:\VisualC Projects\MiniMACGen\ConsoleAPP\obj\Debug\MiniMacGEN.pdb
